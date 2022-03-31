@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @princeraut
+- 👀 I’m interested in Cooding 
+- 🌱 I’m currently learning C-Language
+- 💞️ I'm currently in learning phase
+- 📫 How to reach me princeraut599@gmail.com
